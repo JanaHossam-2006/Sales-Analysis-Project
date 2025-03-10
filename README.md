@@ -71,8 +71,11 @@ Key findings from the analysis include:
 More insights and visualizations can be found in the reports folder 📂.
 
 📌 Future Improvements
+
 🔹 Improve customer segmentation using machine learning models.
+
 🔹 Implement real-time dashboard updates.
+
 🔹 Optimize shipping strategies to reduce delivery delays
 
 ## 📬 Contact
