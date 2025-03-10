@@ -34,7 +34,6 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 ┣ 📜 README.md (Project documentation)
 
 ┣ 📜 requirements.txt (Python dependencies)
-
 ┣ 📜 LICENSE (Project license)
 
 
