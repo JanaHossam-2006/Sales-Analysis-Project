@@ -4,7 +4,7 @@
 This project analyzes Superstore sales data to uncover insights on **sales trends, customer behavior, and shipping efficiency**. The goal is to provide data-driven recommendations to improve profitability and operational efficiency.  
 
 ## 👥 Team Memmbers 
-1.Jana Hossam
+1.Jana Hossam                                                                                                                                                                            
 2.Mayar Mohamed
 3.Shahd Ibrahim
 4.Sohila Abdelgwad
