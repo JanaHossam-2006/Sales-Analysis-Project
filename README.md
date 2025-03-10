@@ -24,11 +24,17 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 
 ## 📂 Project Structure  
 📁 Superstore-Sales-Analysis
+
 ┣ 📂 data (Raw & processed data files)
+
 ┣ 📂 scripts (Python scripts for analysis & automation)
+
 ┣ 📂 reports (Final reports & visualizations)
+
 ┣ 📜 README.md (Project documentation)
+
 ┣ 📜 requirements.txt (Python dependencies)
+
 ┣ 📜 LICENSE (Project license)
 
 
