@@ -64,7 +64,7 @@ More insights and visualizations can be found in the reports folder 📂.
 
 ### **1️⃣ Sales Analysis**  
 - 🔹 **Top-selling products & categories**  
-  - ✅ The **most sold product** is **"Product X"** with **5000+ units sold**.  
+  - ✅ The **most sold product** is **"Cisco Telepresence System"** with **5000+ units sold**.  
   - ✅ The **top-selling category** is **"Technology"**, generating the highest revenue.  
 - 🔹 **Sales trends over time**  
   - ✅ Sales **peak in November & December**, indicating a seasonal effect.  
@@ -91,10 +91,6 @@ More insights and visualizations can be found in the reports folder 📂.
 ### **1️⃣ Open Google Colab**  
 Click the link below to open the project in Google Colab:  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lPE4-YWzz3I0QSQ5gpJ_cVHtkpxnSlPj?usp=drive_link)   
-### **2️⃣ Mount Google Drive** (if needed)  
-```python
-from google.colab import drive
-drive.mount('/content/drive')
 
 
 ## 📬 Contact
@@ -106,10 +102,6 @@ For any questions, reach out via:
 
 ## 🚀 How to Run the Project  
 
-### **1️⃣ Clone the repository**  
-```bash
-git clone https://github.com/yourusername/Sales-Analysis-Project.git
-cd Superstore-Sales-Analysis
 
 
 
