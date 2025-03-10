@@ -5,8 +5,8 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 
 ## 👥 Team Memmbers 
 1.Jana Hossam                                                                                                                                                                            
-2.Mayar Mohamed
-3.Shahd Ibrahim
+2.Mayar Mohamed                                                                                                                                                                          
+3.Shahd Ibrahim                                                                                                                                                                          
 4.Sohila Abdelgwad
 
 ## 🔹 Objectives  
