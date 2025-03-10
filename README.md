@@ -62,8 +62,11 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 Key findings from the analysis include:
 
 📌 The most profitable product categories are…
+
 📌 The highest sales occur in…
+
 📌 Shipping delays impact sales in the following way…
+
 
 More insights and visualizations can be found in the reports folder 📂.
 
@@ -72,9 +75,11 @@ More insights and visualizations can be found in the reports folder 📂.
 🔹 Implement real-time dashboard updates.
 🔹 Optimize shipping strategies to reduce delivery delays
 
-📬 Contact
+## 📬 Contact
 For any questions, reach out via:
+
 📩 Email: ghosam804@gmail.com
+
 📌 GitHub Issues: Open an issue
 
 ## 🚀 How to Run the Project  
