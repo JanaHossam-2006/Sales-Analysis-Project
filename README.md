@@ -40,7 +40,7 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 ## 📊 Results & Insights
 Key findings from the analysis include:
 
-📌 The most profitable product categories are…
+📌 The most profitable product categories are **Office Supplies**
 
 📌 The highest sales occur in…
 
