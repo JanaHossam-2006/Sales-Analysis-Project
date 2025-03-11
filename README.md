@@ -34,6 +34,9 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 ┣ 📜 README.md (Project documentation)
 
 ┣ 📜 requirements.txt (Python dependencies)
+---
+## Data Model
+(https://raw.githubusercontent.com/Jana-Hossam2006/repository/main/sales store data model.jpg)
 
 ---
 
