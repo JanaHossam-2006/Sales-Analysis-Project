@@ -16,7 +16,8 @@ This project analyzes Superstore sales data to uncover insights on **sales trend
 ✅ Evaluate shipping delays and their impact on sales.  
 
 ## 🛠️ Technologies Used  
-- **Python** (Pandas, Matplotlib, Seaborn)  
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Google Colab**
 - **Power BI / Tableau** (for visualization)  
 - **Git & GitHub** for version control  
  
