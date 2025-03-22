@@ -88,6 +88,30 @@ Key findings from the analysis include:
   - ✅ Regions with **longer shipping times** tend to have **lower sales growth**.  
 
 ---
+### **🗄 Stakeholder Analysis**
+## 🔹 Key Stakeholders & Interests:
+Business Owners → Increase profitability & optimize operations.
+Sales Managers → Identify top-selling products & improve sales performance.
+Marketing Team → Target the right customers & optimize campaigns.
+Supply Chain Managers → Reduce shipping delays & improve delivery efficiency.
+Customers → Receive products on time & at competitive prices.
+Data Analysts → Extract insights & ensure data accuracy.
+Investors → Assess business performance & profitability.
+
+## 🔹 Stakeholder Prioritization:
+High Power, High Interest → Business Owners, Sales & Supply Chain Managers.
+High Power, Low Interest → Investors.
+Low Power, High Interest → Marketing Team, Customers.
+
+## 🔹 Communication Plan:
+Reports & dashboards for decision-makers.
+Monthly updates for investors.
+Customer feedback analysis to enhance experience.
+
+
+
+
+
 
 ## 🚀 How to Run the Project on Google Colab  
 
