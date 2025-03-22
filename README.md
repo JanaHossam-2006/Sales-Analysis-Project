@@ -67,35 +67,41 @@ Key findings from the analysis include:
 
 ### **1️⃣ Sales Analysis**  
 - 🔹 **Top-selling products & categories**  
-  - ✅ The **most sold product** is **"Cisco Telepresence System"** with **5000+ units sold**.  
-  - ✅ The **top-selling category** is **"Technology"**, generating the highest revenue.  
+   ✅ The **most sold product** is **"Cisco Telepresence System"** with **5000+ units sold**.  
+   ✅ The **top-selling category** is **"Technology"**, generating the highest revenue.  
 - 🔹 **Sales trends over time**  
-  - ✅ Sales **peak in November & December**, indicating a seasonal effect.  
+   ✅ Sales **peak in November & December**, indicating a seasonal effect.  
 - 🔹 **Regional sales performance**  
-  - ✅ The **highest sales region** is **"West"**, while the **lowest sales region** is **"South"**.  
+   ✅ The **highest sales region** is **"West"**, while the **lowest sales region** is **"South"**.  
 
 ### **2️⃣ Geographic Sales Performance**  
 - 🔹 **Sales distribution by state & city**  
-  - ✅ **California** has the highest sales, while **Wyoming** has the lowest.  
+   ✅ **California** has the highest sales, while **Wyoming** has the lowest.  
 - 🔹 **Top-performing & low-performing locations**  
-  - ✅ The **best-performing city** is **"San Francisco"**, while the lowest is **"Cheyenne"**.  
+   ✅ The **best-performing city** is **"San Francisco"**, while the lowest is **"Cheyenne"**.  
 
 ### **3️⃣ Shipping & Delivery Analysis**  
 - 🔹 **Shipping duration trends**  
-  - ✅ The **fastest shipping method** is **"Same Day"**, averaging **1 day**.  
-  - ✅ The **slowest shipping method** is **"Standard Class"**, averaging **5+ days**.  
+   ✅ The **fastest shipping method** is **"Same Day"**, averaging **1 day**.  
+   ✅ The **slowest shipping method** is **"Standard Class"**, averaging **5+ days**.  
 - 🔹 **Impact of shipping delays on sales**  
-  - ✅ Regions with **longer shipping times** tend to have **lower sales growth**.  
+   ✅ Regions with **longer shipping times** tend to have **lower sales growth**.  
 
 ---
 ## **🗄 Stakeholder Analysis**
  🔹 Key Stakeholders & Interests:
 Business Owners → Increase profitability & optimize operations.
+
 Sales Managers → Identify top-selling products & improve sales performance.
+
 Marketing Team → Target the right customers & optimize campaigns.
+
 Supply Chain Managers → Reduce shipping delays & improve delivery efficiency.
+
 Customers → Receive products on time & at competitive prices.
+
 Data Analysts → Extract insights & ensure data accuracy.
+
 Investors → Assess business performance & profitability.
 
  🔹 Stakeholder Prioritization:
