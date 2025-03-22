@@ -42,12 +42,15 @@ Key findings from the analysis include:
 
 📌 The most profitable product categories are **Office Supplies**
 
-📌 The highest sales occur in…
+📌 The highest sales occur in **New York City, followed by Los Angeles and San Francisco**
 
-📌 Shipping delays impact sales in the following way…
+📌 **Shipping delays reduce sales**, with faster deliveries (≤2 days) generating the highest revenue.
 
+📌 **Repeat customers drive significant sales**, making **loyalty programs and customer retention strategies essential**.
 
-More insights and visualizations can be found in the reports folder 📂.
+📌 **Standard Class is the most used shipping method (58.9%) but also the slowest, which may impact customer satisfaction.**
+
+*More insights and visualizations can be found in the reports folder 📂.*
 
 📌 Future Improvements
 
