@@ -89,7 +89,7 @@ Key findings from the analysis include:
 
 ---
 ### **🗄 Stakeholder Analysis**
-## 🔹 Key Stakeholders & Interests:
+# 🔹 Key Stakeholders & Interests:
 Business Owners → Increase profitability & optimize operations.
 Sales Managers → Identify top-selling products & improve sales performance.
 Marketing Team → Target the right customers & optimize campaigns.
@@ -98,12 +98,12 @@ Customers → Receive products on time & at competitive prices.
 Data Analysts → Extract insights & ensure data accuracy.
 Investors → Assess business performance & profitability.
 
-## 🔹 Stakeholder Prioritization:
+# 🔹 Stakeholder Prioritization:
 High Power, High Interest → Business Owners, Sales & Supply Chain Managers.
 High Power, Low Interest → Investors.
 Low Power, High Interest → Marketing Team, Customers.
 
-## 🔹 Communication Plan:
+# 🔹 Communication Plan:
 Reports & dashboards for decision-makers.
 Monthly updates for investors.
 Customer feedback analysis to enhance experience.
