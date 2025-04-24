@@ -127,6 +127,9 @@ Click the link below to open the project in Google Colab:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lPE4-YWzz3I0QSQ5gpJ_cVHtkpxnSlPj?usp=drive_link)   
 
 
+## 🚀 Tableau Dashboard  
+https://public.tableau.com/views/DEPIPROJECT/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## 📬 Contact
 For any questions, reach out via:
 
